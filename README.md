@@ -34,3 +34,7 @@ Live Event Streaming: It provides a simplified model for how sports scores, live
 Virtual Classrooms: Educators can use this architecture to build "broadcast zones" where a teacher can push lesson materials or notifications to all students in a virtual class instantly.
 
 Emergency Alert Systems: The broadcast architecture can be adapted for time-critical messaging, ensuring that vital alerts reach all endpoints in a network without delay.
+
+"OUTPUT" : 
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/00062642-8026-4245-993f-5b52cda14fef" />
